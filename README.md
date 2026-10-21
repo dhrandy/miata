@@ -6,6 +6,8 @@ no build step, no backend.
 
 Live: https://dhrandy.github.io/miata/
 
+![Miata page screenshot](screenshot.png)
+
 ## What's on the page
 
 - **My car**: 2006 MX-5 Miata Sport (NC), Sunlight Silver, full specs,
